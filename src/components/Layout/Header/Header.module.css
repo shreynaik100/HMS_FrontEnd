@@ -1,0 +1,16 @@
+#header{
+    color:#1A5B3B;
+}
+
+.logo{
+  height: 50px;
+}
+
+
+@media all and (max-width: 720px) {
+    .accountIcon {
+      display: none;
+    }
+
+    
+  }
